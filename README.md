@@ -8,4 +8,5 @@ Repository records Maxwell's leet code challenges with records. Mainly using lan
 |001|[Two Sums (Improved)](https://leetcode.com/problems/two-sum/)|Easy|80.11%|2018/06/02|[My Solution](https://github.com/Maxwell-Alexius/Maxwell-LeetCodes/blob/master/001-Two-Sums/improved-attempt.js)|
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|Easy|46.20%|2018/05/30|[My Solution](https://github.com/Maxwell-Alexius/Maxwell-LeetCodes/blob/master/007-Reverse-Integer/original-attempt.js)|
 |026|[Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Easy|39.56%|2018/06/02|[My Solution](https://github.com/Maxwell-Alexius/Maxwell-LeetCodes/blob/master/026-Remove-Duplicates-From-Sorted-Array/original-attempt.js)|
-|066|[Plus One](https://leetcode.com/problems/plus-one/)|Easy|76.41%|2018/06/05|[My Solution](https://github.com/Maxwell-Alexius/Maxwell-LeetCodes/blob/master/066-Plus-One/original-attempt.js)
+|066|[Plus One](https://leetcode.com/problems/plus-one/)|Easy|76.41%|2018/06/05|[My Solution](https://github.com/Maxwell-Alexius/Maxwell-LeetCodes/blob/master/066-Plus-One/original-attempt.js)|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|Easy|99.29%|2018/06/07|[My Solution](https://github.com/Maxwell-Alexius/Maxwell-LeetCodes/blob/master/412-Fizz-Buzz/original-attempt.js)|
